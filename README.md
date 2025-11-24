@@ -1,7 +1,7 @@
-### Hi there, I'm Salva and I love programming! 👋
+### Hi there, I'm Salva and I love creating stuff with code! 👋
 
-- 🔭 I’m currently working on an Edge Web Application
-- 🌱 I’m currently learning the MERN stack, Smart Contracts & Solidity
+- 🔭 I’m currently working on an Edge Web Application for Industrial Automation
+- 🌱 I’m currently working with the MERN stack, experimenting with Cursor, Gen AI and Agents
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
