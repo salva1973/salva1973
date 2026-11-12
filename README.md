@@ -1,12 +1,9 @@
-### Hi there, I'm Salva and I love creating stuff with code! 👋
+## Hi, I'm Salva 👋
+**Industrial automation engineer turned edge software architect.**
+20+ years bridging PLCs and modern software: from Ladder and Structured Text to Docker, secure APIs and AI agents.
 
-- 🔭 I’m currently working on an Edge Web Application for Industrial Automation
-- 🌱 I’m currently working with the MERN stack, experimenting with Cursor, Gen AI and Agents
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🏭 Building edge diagnostic applications for industrial automation: PLC-side libraries (CODESYS / IEC 61131-3), secure APIs, hardened Debian images for industrial PCs, signed and encrypted update pipelines
+- 🤖 Designing agentic workflows: a multi-agent orchestrator on Raspberry Pi where Claude and Codex hand off work as reviewer and implementer
+- 🛠️ Self-hosting a lot of things on Raspberry Pi, mostly for fun and learning
+- 📱 Native iOS apps since 2010
+- 🌐 [salvatorevivolo.org](https://salvatorevivolo.org)
